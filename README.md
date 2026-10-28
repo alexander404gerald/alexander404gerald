@@ -5,7 +5,7 @@
 
 👨‍💻 **Sobre Mí**
 
-🏢 Actualmente trabajo en ZentaGroup, donde aporto valor y sigo expandiendo mis conocimientos.
+🏢 Actualmente trabajo en ZentaGroup, donde aporto valor y conocimientos. Proximamente certificado en GCP (Google Cloud Platform).
 
 🚀 Me estoy desarrollando y enfocando mi carrera para desempeñarme como DevOps Engineer Jr.
 

@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gerald Silva 👋
 
-## **Junior DevOps Engineer | Cloud Enthusiast (GCP & AWS)**
+## **Trainee --> Junior DevOps Engineer | Cloud Enthusiast (GCP & AWS)**
 *Bienvenido a mi perfil de GitHub. Soy un profesional del área tecnológica apasionado por la automatización, la infraestructura como código y las soluciones en la nube. Mi objetivo es optimizar los ciclos de vida del desarrollo de software y garantizar la escalabilidad y seguridad de las aplicaciones.*
 
 👨‍💻 **Sobre Mí**
